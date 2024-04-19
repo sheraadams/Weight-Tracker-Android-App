@@ -1,6 +1,6 @@
 ## Android Weight Tracker App
 
-View the [app video on YouTube](https://www.youtube.com/watch?v=xDEJh7eLK58)
+View the [app video on YouTube](https://youtu.be/9ytK9yUP-Qc)
 
 ## Weight Tracker App
 
