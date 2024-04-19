@@ -1,7 +1,8 @@
 ## Android Weight Tracker App
 
 ## Weight Tracker App
-![360](https://github.com/sheraadams/CS360-Mobile-Architecture/assets/110789514/5e61ec2d-55be-4307-a1f0-50a96ca126f0)
+
+![weight1](https://github.com/sheraadams/Weight-Tracker-Android-App/assets/110789514/a35b1779-e8f7-4d8f-aad4-40f5436ea176)
 
 ## About the Project
 This project is a Java language Android phone weight management program. When a user meets a goal weight (gaining or losing weight), they will receive an SMS notification. This app I added password hashing to protect sensitive user data from unauthorized access. I also added a “remember me” button to allow users to conveniently store login credentials. 
