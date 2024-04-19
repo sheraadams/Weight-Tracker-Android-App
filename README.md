@@ -1,5 +1,7 @@
 ## Android Weight Tracker App
 
+View the [app video on YouTube](https://www.youtube.com/watch?v=xDEJh7eLK58)
+
 ## Weight Tracker App
 
 ![weight1](https://github.com/sheraadams/Weight-Tracker-Android-App/assets/110789514/a35b1779-e8f7-4d8f-aad4-40f5436ea176)
